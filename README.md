@@ -91,6 +91,5 @@ Essas são apenas algumas das diferenças mais marcantes entre C#, C++ e C na pr
 - [VEJA A DOCUMENTAÇÃO](https://learn.microsoft.com/en-us/dotnet/csharp/)
 - [VEJA A SINTAXE](./SINTAXE.md)
 - [CURSO DE C#](https://github.com/VILHALVA/CURSO-DE-C-SHARP)
-
-
+- [VEJA OS PROJETOS](https://github.com/VILHALVA?tab=repositories&q=topic:C-SHARP)
 
